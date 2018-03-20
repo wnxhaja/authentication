@@ -27,7 +27,7 @@ node_modules
 # Users Environment Variables
 .lock-wscript
 
-lib/
+#lib/
 coverage/
 data.db
 _backup/
